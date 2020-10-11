@@ -6,4 +6,4 @@ WildSkript is an Addon to plugin Skript that increases the set of events, condit
 * **Official WildSkript DevBukkit** - http://dev.bukkit.org/bukkit-plugins/wildskript/
 * **Official WildSkript SkUnity** - https://docs.skunity.com/addon/WildSkript
 
-Reeignn tarafında 1.16.3 ve üzeri sürümler için optimize edilmiştir.
+Reeignn tarafından 1.16.3 ve üzeri sürümler için optimize edilmiştir.
